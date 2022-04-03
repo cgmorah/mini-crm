@@ -13,6 +13,8 @@ Note: If images are not loaded after uploading, Please run the following command
 
 php artisan storage:link
 
+demo -> https://mini-crm.seminarios.art/
+
 GIOVANNI MORA
 WEB DEVELOPER
 whuws.com
